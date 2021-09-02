@@ -1,0 +1,10 @@
+{
+    "conll2003":["PER", "ORG", "LOC", "MISC"],
+    "webpage":["PER", "ORG", "LOC", "MISC"],
+    "wikigold":["PER", "ORG", "LOC", "MISC"],
+    "twitter":["geo-loc", "facility", "movie", "company", "product", "person", "other", "sportsteam", "tvshow", "musicartist"
+    ],
+    "ontonotes5":[
+        "WORK_OF_ART","PRODUCT","NORP","ORG","FAC","GPE","LOC","PERSON","EVENT","LAW","LANGUAGE","PERCENT","ORDINAL","QUANTITY","CARDINAL","TIME","DATE","MONEY"
+    ]
+}
